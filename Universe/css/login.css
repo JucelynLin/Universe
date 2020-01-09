@@ -79,6 +79,7 @@ hr {
     height: auto !important;
     margin-right: 4.4rem;
     margin-top: -0.4rem;
+    cursor: pointer;
 }
 
 .loginicongoogle:hover {
@@ -89,6 +90,7 @@ hr {
 .loginiconfb{
     width: 20% !important;
     height: auto !important;
+    cursor: pointer;
 }
 .loginiconfb:hover {
     transform: scale(1.25, 1.25);
