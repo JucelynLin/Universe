@@ -388,9 +388,3 @@ body{
     letter-spacing: 1px;
     line-height: 50px;
 }
-
-.footer {
-    background: #000;
-    position: absolute;
-   bottom: 0px;
-  }
