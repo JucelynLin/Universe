@@ -160,6 +160,9 @@ body{
   -webkit-animation-delay: 20s;
   animation-delay: 20s;
 }
+.carousel-item{
+  cursor: pointer;
+}
   /* end slider */
 
 .footerA{
